@@ -9,16 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro.unity
     guid: a6eeb7c1d58bbfa41942efb269da8745
   - enabled: 1
-    path: Assets/Scenes/Building_Floor1~3.unity
+    path: Assets/Scenes/Building_Floor1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Building1_Basement.unity
+    path: Assets/Scenes/Building_Basement.unity
     guid: 37eaf225a8e96a84e90e44c1a2acbef8
   - enabled: 0
-    path: Assets/Scenes/Building_Floor2_sample.unity
+    path: Assets/Scenes/Building0_Save_For_Case.unity
     guid: 4c79665f06deae84b843e36d9723481d
   - enabled: 1
-    path: Assets/Scenes/Building_Floor2_sample2.unity
+    path: Assets/Scenes/Building_Floor2~3.unity
     guid: 84ca20ae240897f4294b70ecec607932
   - enabled: 0
     path: 

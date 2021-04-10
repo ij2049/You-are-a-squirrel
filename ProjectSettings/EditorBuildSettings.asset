@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Building_Basement.unity
     guid: 37eaf225a8e96a84e90e44c1a2acbef8
   - enabled: 0
-    path: Assets/Scenes/Building0_Save_For_Case.unity
+    path: Assets/Scenes/Saving For Case/Building0_Save_For_Case.unity
     guid: 4c79665f06deae84b843e36d9723481d
   - enabled: 1
     path: Assets/Scenes/Building_Floor2~3.unity

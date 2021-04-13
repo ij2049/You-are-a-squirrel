@@ -6,27 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Testing SCE/03_Test L_Building_Floor1 1.unity
+    guid: fc06cecc0e16d964393ba6d71b1edb8e
+  - enabled: 0
     path: Assets/Scenes/Intro.unity
     guid: a6eeb7c1d58bbfa41942efb269da8745
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Building_Floor1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Building_Basement.unity
     guid: 37eaf225a8e96a84e90e44c1a2acbef8
   - enabled: 0
-    path: Assets/Scenes/Saving For Case/Building0_Save_For_Case.unity
-    guid: 4c79665f06deae84b843e36d9723481d
-  - enabled: 1
     path: Assets/Scenes/Building_Floor2~3.unity
     guid: 84ca20ae240897f4294b70ecec607932
   - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
     path: Assets/Scenes/Ending.unity
     guid: 368f00e60bf1fc046934224de183f8bf
   - enabled: 0
-    path: Assets/Scenes/Building2.unity
-    guid: c0b4555472deeec4e9750fb434d93d83
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

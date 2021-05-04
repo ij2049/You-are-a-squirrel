@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Testing SCE/03_Test L_Building_Floor1 1.unity
     guid: fc06cecc0e16d964393ba6d71b1edb8e
   - enabled: 0
@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Testing SCE/Basement Test Scenes/Basement Texture 1.unity
+    guid: aa9f626cf33c0684587f29c989e1fd57
   m_configObjects: {}

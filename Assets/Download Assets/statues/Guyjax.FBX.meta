@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: b9defb5ecfe4f6f4c946d0aef5b352b0
+guid: e2522c5cec13ac3458acabc1f04d6681
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: ec8cb93ec819aec4b8d82894c4d50c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kolca
+    second: {fileID: 2100000, guid: d0892783ef06e124ebca7cf9ee69d6a5, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -45,7 +55,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
